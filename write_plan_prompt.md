@@ -4,4 +4,4 @@ Assume that the engineer has zero context for our codebase and questionable tast
                                                 
 Assume they are a skilled developer, but know almost nothing about our toolset or problem domain. assume they don't know good test design very well.  
 
-please write out this plan, in full detail, into docs/plans/ and create github tickets for each step in the current repo.
+please write out this plan, in full detail including updating readme files, into docs/plans/ and create github tickets for each step in the current repo.
