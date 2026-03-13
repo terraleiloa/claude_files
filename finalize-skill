@@ -1,0 +1,7 @@
+//Add a "failure modes" section to your skills. Before finalizing, ask yourself (or prompt the agent to ask):
+
+
+"What are the 5 most likely ways this skill breaks?"
+
+//Add a brief "evolution notes" section to each skill 
+//-- what might change, what's hardcoded that shouldn't be, what v2 looks like. One paragraph, not a formal scoring rubric.
