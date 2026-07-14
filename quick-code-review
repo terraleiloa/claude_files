@@ -1,1 +1,5 @@
-Review my uncommitted changes with Bugbot. Focus on dead code, undefined references, unreachable branches, and persistence/state bugs
+Review my uncommitted changes with Bugbot.
+
+- Focus on behavioral changes with meaningful blast radius.
+- Look for: dead code, unreachable branches, data corruption, race conditions that lose writes, persistance and state buges, null dereferences in critical paths, auth/permission bypasses, infinite loops, resource leaks, and silent data truncation.
+- Trace through the full code path — don't just pattern-match on the diff. Understand the caller chain and downstream effects.
